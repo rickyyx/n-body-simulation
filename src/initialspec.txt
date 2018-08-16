@@ -1,0 +1,12 @@
+TimeSlots: 10
+TimeStep: 10
+Horizon: 0
+GridSize: 128
+NumberOfSmallParticles:10
+SmallParticleMass: 0.0001
+SmallParticleRadius: 0.0001
+CollisionMode: 1
+NumberOfLargeParticles: 3
+12 50000 86.5 29.11
+5 30000 25 90
+8 40000 40.0 17.0
